@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fokiiii
-- 👀 I’m interested in:Unreal Engine,Unity,Python.
+- 👋 Hi, I’m @Foki
+- 👀 I’m interested in:C++,C#
 - 🌱 I’m currently learning...
 - 📫 How to reach me...
