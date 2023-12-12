@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Foki
-- 👀 I’m interested in:C++,C#,Pyhon.
+- 👀 I’m interested in:.
 - 🌱 I’m currently learning:English.
 - 📫 How to reach me:@Foki tg
